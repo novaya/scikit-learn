@@ -1,4 +1,6 @@
-.. -*- mode: rst -*-
+.. -*- mode: rst -*-   
+
+
 
 |Azure|_ |Travis|_ |Codecov|_ |CircleCI|_ |PythonVersion|_ |PyPi|_ |DOI|_
 
